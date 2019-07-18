@@ -2,5 +2,6 @@
 #include<conio.h>
 void main()
 {
-print("Welcome to Horizon+ 2k19");
+printf("Welcome to Horizon+ 2k19");
+  printf("Hello world");
 }
